@@ -1,4 +1,4 @@
-💻 Cognitiva API (Backend)
+💻 GreenSight API (Backend)
 
 API de microsserviço em Node.js / Express, responsável pela gestão de dados (CRUD) de Alunos, Turmas, Docentes e pela comunicação com a API Gemini para análise de desempenho pedagógico.
 
